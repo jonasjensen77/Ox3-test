@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /cdn-cgi/
+Sitemap: https://Ox3.serek.eu/sitemap.xml

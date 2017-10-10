@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.0">Jekyll</generator><link href="https://ox3.serek.eu/reviews.xml" rel="self" type="application/atom+xml" /><link href="https://ox3.serek.eu/" rel="alternate" type="text/html" /><updated>2017-10-10T07:02:01+00:00</updated><id>https://ox3.serek.eu/</id><title type="html">Odd One Out</title><subtitle>My blog about geeky projects</subtitle><author><name>Poul Serek</name><uri>https://Ox3.serek.eu/about/</uri></author><entry><title type="html">Some review</title><link href="https://ox3.serek.eu/reviews/some-post/" rel="alternate" type="text/html" title="Some review" /><published>2016-10-17T00:00:00+00:00</published><updated>2017-04-11T16:53:32+00:00</updated><id>https://ox3.serek.eu/reviews/some-post</id><content type="html" xml:base="https://ox3.serek.eu/reviews/some-post/">
+        
+        
+          
+          
+          &lt;p&gt;&lt;img src=&quot;/assets/images/todo.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+        
+
+        
+
+        
+        &lt;p&gt;&lt;a href=&quot;https://ox3.serek.eu/reviews/some-post/&quot; rel=&quot;nofollow&quot;&gt;Some review&lt;/a&gt; was originally published on Odd One Out.&lt;/p&gt;
+
+      </content><author><name>Poul Serek</name><uri>https://Ox3.serek.eu/about/</uri></author><category term="reviews" /><category term="tag1" /><category term="tag2" /><category term="tag3" /><summary type="html">Some excerpt</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://ox3.serek.eu/assets/images/todo.jpg" /></entry></feed>
